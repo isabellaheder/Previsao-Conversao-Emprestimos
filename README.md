@@ -32,3 +32,8 @@ Dataset: https://www.kaggle.com/datasets/krantiswalke/bank-personal-loan-modelli
 - Acurácia: 0.9202020202020202
 - Precisão: 0.5266666666666666
 - Recall: 0.9080459770114943
+
+Matriz de Confusão:
+
+<img width="539" height="455" alt="e5b4e04c-8c24-4973-8287-0e53190fa4fe" src="https://github.com/user-attachments/assets/822d3363-ba6a-468c-bf99-6b96222c7587" />
+
